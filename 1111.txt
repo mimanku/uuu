@@ -1,0 +1,9 @@
+建立远程仓库   仓库名和项目名一致
+
+
+git status  查看当前状态
+
+再次上传
+git add .
+git commit -m 'dsadasdas'
+git push origin master
